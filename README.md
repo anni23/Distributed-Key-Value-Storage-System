@@ -14,3 +14,5 @@ Consistent hashing provides load balancing and flexibility when a node joins or 
 Replication – Every key value pair to be inserted into a node is also replicated in next two successor nodes.
 
 Failure Handling – After failure, a node recovers by getting the missed key value pairs from its replicas.
+
+Link for Quorum Replication - http://web.mit.edu/6.033/2005/wwwdocs/quorum_note.html
